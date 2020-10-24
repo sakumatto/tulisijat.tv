@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Muurattu tulisijaohje
-image: /img/home-jumbotron.jpg
+image: /img/punainen-tiili-muurattu.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
