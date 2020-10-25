@@ -6,8 +6,7 @@ description: Miten ja millaista puuta olisi syytä tulisijassasi käyttää? Lue
 featuredpost: true
 featuredimage: /img/muurattu-tulisija-puun-poltto-opas.jpg
 tags:
-  - puun potto-opas
-  - halko
+  - puun potto
 ---
 # Puun poltto-opas
 
