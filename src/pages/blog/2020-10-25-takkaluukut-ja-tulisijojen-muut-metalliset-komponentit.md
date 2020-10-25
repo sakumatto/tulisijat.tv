@@ -19,3 +19,5 @@ Kevyemmän ulkonäkönsä ansiosta ne eivät vie haluttaessa itse tulisijasta hu
 Tulisijojen "lasiluukuissa" käytettävä hyvä "lasi" on keramiikkaa joka kestää tulipesän hehkuvia lämpötiloja särkymättä. Muiden materiaalien käyttö on vaarallista kuumuudesta johtuvan räjähtävän pirstoutumisvaaran vuoksi.
 
 Takkaluukkuja ja tulisijakomponentteja valmistaa mm. kotimainen **Sepon valutuote**. Sen kotisivut löytyvät osoitteesta *<https://www.svtvalut.net/>*
+
+Kuvavinkki: Heikki Hyytiäisen Ruotsiin tekemä [16 tonnia painava leipomon uuni](https://www.facebook.com/photo/?fbid=1978573292428161&set=gm.1459307464176271).
