@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Muurattu tulisijaohje
+title: Muurattu tulisija
 image: /img/punainen-tiili-muurattu.jpg
 heading: Tasaista lämpöä pitkän aikaa
 subheading: Uusiutuvilla lämmittämisen syvin olemus
@@ -26,10 +26,24 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-  heading: What we offer
-  description: Muurattu tulisija muurataan tiilistä ja savilaastista. Pinnan voi
-    jättää haluamansa kaltaiseksi, eli joko pinnoittamatta tai sitten pinnoittaa
-    vaikkapa rapaamalla pinta.
+  heading: Uunin valinta
+  description: >
+    Aikaisemmin kylän uunit muurasi paikkakunnalla asuva muurari joka oli
+    yleensä oppinut taitonsa isältään.
+
+
+    Jos uunit toimivat ja kestivät, riitti muurarilla töitä. Tämä takasi laadunvalvonnan. Toisin on nykyään.
+
+
+    Tulisija-alalla on tapahtunut valtakunnallistuminen ja jopa kansainvälistyminen. Materiaalit tulevat aiempaa kauempaa samoin kuin muurarikin.
+
+
+    Kansainväliset normit määrittelevät puun polton päästötason. Tämä on asettanut aiemmat toimintatavat, tulisijan suunnittelun ja materiaalit uuden tilanteen eteen.
+
+    Tulisijojen ja komponenttien suunnittelijat, valmistajat sekä paikalla muurattavien tulisijojen tekijät joutuvat hankkimaan tiedot näistä määräyksistä ja kehittämään tuotteensa ja ammattitaitonsa määräyksiä vastaaviksi.
+
+
+    Normien ja tutkimusten seuraaminen ja oma tuotekehitys vaatii tulisijavalmistuksen piirissä toimivilta jatkuvaa panostamista kehittämiseen.
 main:
   heading: Great coffee with no compromises
   description: >
