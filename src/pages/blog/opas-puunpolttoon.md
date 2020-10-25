@@ -18,6 +18,8 @@ tags:
 
 **Palamiseen tarvittavat kolme tekijää**
 
+![TULEN KOLMIO](/img/muurattu-tulisija-puun-poltto-kolmio.png)
+
 Olipa tulisijasi uusi tai vanha, sitäkin voi käyttää taitavasti. Jo pienillä asioilla, kuten tarjoamalla riittävästi ilmaa palamiseen tai mahdollisesti sytyttämällä puut
 päältä, pystyt parantamaan palamista. Muistathan, että palon edellytykset ovat lämpö, happi ja polttoaine (puu). Pitämällä huolen näiden kolmen tekijän olemassaolosta, puhdas ja tehokas palotapahtuma on jo pitkällä.
 
