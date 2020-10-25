@@ -73,3 +73,7 @@ Häkä on vaarallista. Siksi peltiä ei suljeta jos tulisijassa on vielä palama
 Tuhka
 
 Tuhka saattaa olla kuumaa vielä vuorokaudenkin jälkeen lämmittämisestä ja joukossa voi olla hehkuviakin hiiliä. Sen vuoksi sitä ei pidä laittaa palavien roskien tms. joukkoon ellei ole varma tuhkan viileydestä.
+
+
+
+Lukuvinkki: Lue miten tehtiin aito [keskusuuni taloon, jossa tarkoitus on käyttää puulämmitystä päälämmönlähteenä](http://iso-orvokkiniitty.fi/blog/varaavat-tulisijat-paalammonlahteena-ja-kuinka-ne-rakennettiin/).
