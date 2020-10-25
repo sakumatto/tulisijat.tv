@@ -1,16 +1,33 @@
 ---
-heading: Tulisijojen osia
+heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
-title: Tulisijojen osia
+title: Our Coffee
 image: /img/punainen-tiili-muurattu.jpg
-description: Tulisijoissa on monia osia, joiden omaksuminen on vaikeata ilman luontaista niiden kanssa toimimista taustanaan. Tässä muutamia selvennyksiä, joita olen matkan varrella itselleni selvittänyt. Jos huomaat alla virheitä ja puutteita, käytäthän yhteydenottolomaketta korjauksen lähettämiseksi...
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/punainen-tiili-muurattu.jpg
       text: >
+<<<<<<< HEAD
         Tulisijan suuluukku on puiden syötön luukku. Se on pääsääntöisesti valurautainen ja siinä saattaa olla ikkuna, josta näkee sisään tulipesään.
   heading: Suuluukku
+=======
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
+>>>>>>> parent of 63398f5... Update index.md
 main:
   heading: Great coffee with no compromises
   description: >
