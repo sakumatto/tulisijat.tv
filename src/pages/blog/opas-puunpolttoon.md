@@ -16,20 +16,20 @@ tags:
 
 
 
-**Palamiseen tarvittavat kolme tekijää**
+##Palamiseen tarvittavat kolme tekijää
 
 ![TULEN KOLMIO](/img/muurattu-tulisija-puun-poltto-kolmio.png)
 
 Olipa tulisijasi uusi tai vanha, sitäkin voi käyttää taitavasti. Jo pienillä asioilla, kuten tarjoamalla riittävästi ilmaa palamiseen tai mahdollisesti sytyttämällä puut
 päältä, pystyt parantamaan palamista. Muistathan, että palon edellytykset ovat lämpö, happi ja polttoaine (puu). Pitämällä huolen näiden kolmen tekijän olemassaolosta, puhdas ja tehokas palotapahtuma on jo pitkällä.
 
-**Vain kuiva puu palaa tehokkaasti ja puhtaasti**
+##Vain kuiva puu palaa tehokkaasti ja puhtaasti
 
 Ylivuotinen ja kuiva puu kilahtaa kun kopautat kahta halkoa toisiaan vasten. Kumahtava ääni merkki liiallisesta kosteudesta, eikä sellainen puu kelpaa polttoon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENQfLYBl7S0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Polttopuillesi puuvaja**
+##Polttopuillesi puuvaja
 
 Hyvä puuvaja pitää puut kuivina. ​Lukittava ovi vähentää ilkivallan riskiä, jos asut tiheään asutulla alueella. Puuta ei paloriskin vuoksi saa varastoida räystään suojassa eikä autotallissa.
 
