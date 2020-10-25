@@ -13,9 +13,12 @@ intro:
     - image: /img/punainen-tiili-muurattu.jpg
       text: >
 <<<<<<< HEAD
+<<<<<<< HEAD
         Tulisijan suuluukku on puiden syötön luukku. Se on pääsääntöisesti valurautainen ja siinä saattaa olla ikkuna, josta näkee sisään tulipesään.
   heading: Suuluukku
 =======
+=======
+>>>>>>> parent of 63398f5... Update index.md
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
@@ -27,6 +30,9 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+<<<<<<< HEAD
+>>>>>>> parent of 63398f5... Update index.md
+=======
 >>>>>>> parent of 63398f5... Update index.md
 main:
   heading: Great coffee with no compromises
