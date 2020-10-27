@@ -16,10 +16,8 @@ intro:
 main:
   heading: Erilaisia tulisijoja
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Tulisijatyyppejä on useita ja riippuen käyttöpaikan antamista mahdollisuuksista ja vaikkapa lämmitystarpeesta, jokin tulisijatyyppi nousee ylitse muiden. Tässä kohdassa unohdetaan kaikki sähköä vaativat tulisijat kuten pellettitakat, jotka sinänsä ovat helppokäyttöisiä ja nopeita, mutta joihin ei voi luottaa verkkohäiriöiden aikaan.
+    Alla kuvassa 1 on Nunnauunin Deko vuolukivitakka.
   image1:
     alt: Nunnauunin Deko vuolukivitakka
     image: /img/muurattu-tulisija-nunnauuni-deko-vuolukivitakka.jpg
