@@ -45,14 +45,14 @@ pricing:
         - 1500 kg+
         - Pienet suojaetäisyydet
       plan: Paikalla muurattu tulisija
-      price: "5000"
+      price: 5000
     - description: Lämpö leviää välittömästi huoneeseen. Polttavapintainen.
       items:
         - Normaali lattia riittää yleensä
         - 70kg
         - Suojaetäisyydet suuret
       plan: Takka
-      price: "500"
+      price: 500
     - description: Lämpö leviää nopeasti huoneeseen. Varaa muutaman tunnin.
       items:
         - Normaali lattia vahvistettuna
