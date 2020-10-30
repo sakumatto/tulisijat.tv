@@ -19,11 +19,7 @@ intro:
   blurbs:
     - image: /img/punainen-tiili-muurattu.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Oma tulisija on monen meidän suunnitelmissamme. Etsi itsellesi sopiva tulisijamuurari näiltä sivuilta tai etsi vihjeet, miten itse sellainen muurata.
   heading: Uunin valinta
   description: >
     Aikaisemmin kylän uunit muurasi paikkakunnalla asuva muurari joka oli
