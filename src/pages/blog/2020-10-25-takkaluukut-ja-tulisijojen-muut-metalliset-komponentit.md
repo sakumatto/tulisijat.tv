@@ -1,7 +1,6 @@
 ---
 templateKey: blog-post
 title: Takkaluukut ja tulisijojen muut metalliset komponentit
-date: 2020-10-25T06:07:00.408Z
 description: Valurauta on se  jonka haluat ja missä ei valurautaa ole syy
   käyttää, peltinen toimii. Muista jättää sovitusrako lämpölaajenemiselle.
 featuredpost: true
