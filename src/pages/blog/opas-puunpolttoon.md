@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Opas puunpolttoon
+date: 2005-01-05T06:07:00.408Z
 description: Miten ja millaista puuta olisi syytä tulisijassasi käyttää? Lue ja
   tutustu aiheeseen tarkemmin.
 featuredpost: true

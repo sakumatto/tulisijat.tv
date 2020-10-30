@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Muurattu suomalainen tulisija
+date: 2000-11-25T06:07:00.408Z
 description: Kun uusi tulisija on valmis, tekisi mieli heti laittaa tulet
   uuniin. Malta silti vielä! Lue oikeat uunin käyttöohjeet alta ja varmista
   siten uuden tulisijasi hyvä kunto ja toiminta pitkälle tulevaisuuteen.
