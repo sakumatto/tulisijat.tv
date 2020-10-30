@@ -13,10 +13,8 @@ mainpitch:
     öljylämmitys ovat sähkön jakeluhäiriöille. Ja yhtä lailla tasainen kehon
     hyvinvointina tuntuva muuratun uunin lämpö. Tässä muutamia syitä miksi
     vanhassa vara parempi
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Puuta polttoaineena käyttävä tulisija on suomalaisen perinteisen
+  lämmityksen sydän.
 intro:
   blurbs:
     - image: /img/punainen-tiili-muurattu.jpg
