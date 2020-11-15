@@ -201,12 +201,12 @@ main:
 
     Listan oikeellisuutta ei valitettavasti voida taata. Lähetä nimesi listalle lisättäväksi, jos haluat.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Suomalainen tulisija
     image: /img/punainen-tiili-muurattu.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Puun poltto tuo lämpöä
     image: /img/punainen-tiili-muurattu.jpg
   image3:
-    alt: Coffee beans
+    alt: Hehkuva lämpö on miellyttävää
     image: /img/punainen-tiili-muurattu.jpg
 ---
