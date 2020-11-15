@@ -195,7 +195,7 @@ main:
 
 <br />    <strong>Ylöjärvi</strong> Tero-Pekka Hannula
 
-<br />    <strong>Ylöjärvi</strong> Pauli Leinonen, T:mi Takkamestari Pauli Leinonen, <a href="http://takkamestari.fi/" target="_blank" rel="nofollow noopener">takkamestari.fi</a>
+<br />    <strong>Ylöjärvi</strong> Pauli Leinonen, T:mi Takkamestari Pauli Leinonen, <a href="https://www.takkamestariylojarvi.fi/" target="_blank" rel="nofollow noopener">https://www.takkamestariylojarvi.fi/</a>
 
 
 
