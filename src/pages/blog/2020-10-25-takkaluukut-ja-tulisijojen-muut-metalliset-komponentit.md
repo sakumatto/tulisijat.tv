@@ -14,7 +14,9 @@ Tulisijan valmistuksessa on huomioitava erilaisten materiaalien lämpölaajenemi
 Eniten muuttumattomana kuumuutta kestävä käytössä oleva metallikomponenttimateriaali on valurauta. Tämän ansiosta se on suositeltava materiaali esimerkiksi takkaluukuille.\
 Myös teräksestä valmistetut, useimmiten jollain jalometallilla kuten kromilla, kullalla tai kuparilla pinnoitetut luukut ja tulisijakomponentit ovat hyviä ja siroja tulisijojen osia.\
 Kevyemmän ulkonäkönsä ansiosta ne eivät vie haluttaessa itse tulisijasta huomiota luukkuun silloin kun tulisija on suunniteltu sisustukselliseksi osaksi.
+
 ![Punatiilinen muurattu tulisija](/img/muurattu-tulisija-punatiili_uuni.jpg)
+
 \
 Tulisijojen "lasiluukuissa" käytettävä hyvä "lasi" on keramiikkaa joka kestää tulipesän hehkuvia lämpötiloja särkymättä. Muiden materiaalien käyttö on vaarallista kuumuudesta johtuvan räjähtävän pirstoutumisvaaran vuoksi.
 
