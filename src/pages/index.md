@@ -19,7 +19,9 @@ intro:
   blurbs:
     - image: /img/punainen-tiili-muurattu.jpg
       text: >
-        Oma tulisija on monen meidän suunnitelmissamme. Etsi itsellesi sopiva tulisijamuurari näiltä sivuilta tai etsi vihjeet, miten itse sellainen muurata.
+        Oma tulisija on monen meidän suunnitelmissamme. Etsi itsellesi sopiva
+        tulisijamuurari näiltä sivuilta tai etsi vihjeet, miten itse sellainen
+        muurata.
   heading: Uunin valinta
   description: >
     Aikaisemmin kylän uunit muurasi paikkakunnalla asuva muurari joka oli
@@ -84,8 +86,6 @@ main:
     Kangasala - Jouko Kannusmäki
 
     Kangasala - Tapani Kannusmäki
-
-    Karhe - Pauli Leinonen, T:mi Takkamestari Pauli Leinonen
 
     Kausala - Renni Sihvola
 
@@ -194,6 +194,9 @@ main:
     Virkkala - Onni Niemi
 
     Ylöjärvi - Tero-Pekka Hannula
+
+    Ylöjärvi - Pauli Leinonen, T:mi Takkamestari Pauli Leinonen
+
 
 
     Listan oikeellisuutta ei valitettavasti voida taata. Lähetä nimesi listalle lisättäväksi, jos haluat.
