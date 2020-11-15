@@ -43,159 +43,159 @@ intro:
 main:
   heading: Tulisijamuurareita kautta Suomen
   description: >-
-    Espoo - Alpo Maksimainen
+<br />    <strong>Espoo</strong> Alpo Maksimainen
 
-    Espoo - Antti Kärki
+<br />    <strong>Espoo</strong> Antti Kärki
 
-    Espoo - Aulis Koponen
+<br />    <strong>Espoo</strong> Aulis Koponen
 
-    Espoo - Harry Hakomäki
+<br />    <strong>Espoo</strong> Harry Hakomäki
 
-    Espoo - Jari Toivakainen
+<br />    <strong>Espoo</strong> Jari Toivakainen
 
-    Espoo - Jarmo Järvinen
+<br />    <strong>Espoo</strong> Jarmo Järvinen
 
-    Espoo - Jussi Järvinen
+<br />    <strong>Espoo</strong> Jussi Järvinen
 
-    Espoo - Tero Kuoppala
+<br />    <strong>Espoo</strong> Tero Kuoppala
 
-    Heinola - Timo Rimppi, Tiili Tiimi Oy
+<br />    <strong>Heinola</strong> Timo Rimppi, Tiili Tiimi Oy
 
-    Helsinki - Iiro Sahramaa, Tulisydän Oy
+<br />    <strong>Helsinki</strong> Iiro Sahramaa, Tulisydän Oy
 
-    Helsinki - Jari Moisander
+<br />    <strong>Helsinki</strong> Jari Moisander
 
-    Helsinki - Kari Rautelin, Takkatiimi Oy, Östersundom
+<br />    <strong>Helsinki</strong> Kari Rautelin, Takkatiimi Oy, Östersundom
 
-    Helsinki - Marko Melts
+<br />    <strong>Helsinki</strong> Marko Melts
 
-    Helsinki - Toni Makkonen
+<br />    <strong>Helsinki</strong> Toni Makkonen
 
-    Helsinki - Vello Roots
+<br />    <strong>Helsinki</strong> Vello Roots
 
-    Hinthaara - Matti Vehviläinen
+<br />    <strong>Hinthaara</strong> Matti Vehviläinen
 
-    Hyvinkää - Matti Hirvonen
+<br />    <strong>Hyvinkää</strong> Matti Hirvonen
 
-    Inkeroinen - Jooel Sihvola
+<br />    <strong>Inkeroinen</strong> Jooel Sihvola
 
-    Järvenpää - Juha Saari, Tulentupa Oy
+<br />    <strong>Järvenpää</strong> Juha Saari, Tulentupa Oy
 
-    Kaarina - Kim Sundholm, Porvoo, Hannu Kärki
+<br />    <strong>Kaarina</strong> Kim Sundholm, Porvoo, Hannu Kärki
 
-    Kangasala - Jouko Kannusmäki
+<br />    <strong>Kangasala</strong> Jouko Kannusmäki
 
-    Kangasala - Tapani Kannusmäki
+<br />    <strong>Kangasala</strong> Tapani Kannusmäki
 
-    Kausala - Renni Sihvola
+<br />    <strong>Kausala</strong> Renni Sihvola
 
-    Kerava - Mauri Hartikainen
+<br />    <strong>Kerava</strong> Mauri Hartikainen
 
-    Klaukkala - Juha-Pekka Minkkinen
+<br />    <strong>Klaukkala</strong> Juha-Pekka Minkkinen
 
-    Kuusankoski - Sami Myllys
+<br />    <strong>Kuusankoski</strong> Sami Myllys
 
-    Lahti - Juha Rantanen
+<br />    <strong>Lahti</strong> Juha Rantanen
 
-    Laitila - Jussi Salonen, Uuniduuni Ky
+<br />    <strong>Laitila</strong> Jussi Salonen, Uuniduuni Ky
 
-    Leppälahti - Petteri Stubb, Tmi Petteri Stubb
+<br />    <strong>Leppälahti</strong> Petteri Stubb, Tmi Petteri Stubb
 
-    Lohja - Heikki Rämänen
+<br />    <strong>Lohja</strong> Heikki Rämänen
 
-    Lohja - Henri Maininki
+<br />    <strong>Lohja</strong> Henri Maininki
 
-    Lohja - Juhani Rusanen, TakkaRusanen Oy
+<br />    <strong>Lohja</strong> Juhani Rusanen, TakkaRusanen Oy
 
-    Lohja - Jukka Niemi, Niemen Takka Oy
+<br />    <strong>Lohja</strong> Jukka Niemi, Niemen Takka Oy
 
-    Lohja - Kai Hietanen, Lohjan Laatutalot Oy
+<br />    <strong>Lohja</strong> Kai Hietanen, Lohjan Laatutalot Oy
 
-    Lohja - Voitto Kavander
+<br />    <strong>Lohja</strong> Voitto Kavander
 
-    Loimaa - Ilkka Lempinen
+<br />    <strong>Loimaa</strong> Ilkka Lempinen
 
-    Loimaa - Matti Mäkilä
+<br />    <strong>Loimaa</strong> Matti Mäkilä
 
-    Loppi - Petri Salmenius
+<br />    <strong>Loppi</strong> Petri Salmenius
 
-    Luhtikylä - Harri Saarinen
+<br />    <strong>Luhtikylä</strong> Harri Saarinen
 
-    Niemenkylä - Reijo Sarvela
+<br />    <strong>Niemenkylä</strong> Reijo Sarvela
 
-    Nokia - Jarmo Lamppu
+<br />    <strong>Nokia</strong> Jarmo Lamppu
 
-    Nousiainen - Niilo Orti
+<br />    <strong>Nousiainen</strong> Niilo Orti
 
-    Nummela - Petri Oinonen, Muuraus- ja Laattatyö
+<br />    <strong>Nummela</strong> Petri Oinonen, Muuraus- ja Laattatyö
 
-    Nummi - Risto Rinne
+<br />    <strong>Nummi</strong> Risto Rinne
 
-    Orimattila - Jorma Lyytinen, Saneeraus-Semu
+<br />    <strong>Orimattila</strong> Jorma Lyytinen, Saneeraus-Semu
 
-    Pohjankuru - Henry Malvela, Tmi H. Malvela
+<br />    <strong>Pohjankuru</strong> Henry Malvela, Tmi H. Malvela
 
-    Porvoo - Harri Kokkomäki, Suursuomen Muurimestarit Ky
+<br />    <strong>Porvoo</strong> Harri Kokkomäki, Suursuomen Muurimestarit Ky
 
-    Porvoo - Jani Savolainen, Takkaset Oy, Anttila
+<br />    <strong>Porvoo</strong> Jani Savolainen, Takkaset Oy, Anttila
 
-    Porvoo - Lasse Aro
+<br />    <strong>Porvoo</strong> Lasse Aro
 
-    Riihimäki - Erkki Ranta, T:mi Erkki Ranta
+<br />    <strong>Riihimäki</strong> Erkki Ranta, T:mi Erkki Ranta
 
-    Riihimäki - Hannu Maunu, Riihimäen Tulisijat ja Muuraus
+<br />    <strong>Riihimäki</strong> Hannu Maunu, Riihimäen Tulisijat ja Muuraus
 
-    Riihimäki - Petri Pakarinen
+<br />    <strong>Riihimäki</strong> Petri Pakarinen
 
-    Rovaniemi - Juha Keskiniva, JK Radical Ky
+<br />    <strong>Rovaniemi</strong> Juha Keskiniva, JK Radical Ky
 
-    Röykkä - Ibon Sanchez
+<br />    <strong>Röykkä</strong> Ibon Sanchez
 
-    Sahalahti - Harri Metsälä, Lämpömuuri
+<br />    <strong>Sahalahti</strong> Harri Metsälä, Lämpömuuri
 
-    Seinäjoki - Sami Ojanen
+<br />    <strong>Seinäjoki</strong> Sami Ojanen
 
-    Tampere - Ari Nieminen
+<br />    <strong>Tampere</strong> Ari Nieminen
 
-    Tampere - Ari Rimmi
+<br />    <strong>Tampere</strong> Ari Rimmi
 
-    Tampere - Eero Roiha
+<br />    <strong>Tampere</strong> Eero Roiha
 
-    Tampere - Jarmo Lahtinen
+<br />    <strong>Tampere</strong> Jarmo Lahtinen
 
-    Tampere - Pauli Siltanen
+<br />    <strong>Tampere</strong> Pauli Siltanen
 
-    Tornio - Erkki Lappalainen, Muuraus- ja laattatyö E. Lappalainen
+<br />    <strong>Tornio</strong> Erkki Lappalainen, Muuraus- ja laattatyö E. Lappalainen
 
-    Tornio - Mika Rytisalo, Muuraus- ja laattatyö E. Lappalainen
+<br />    <strong>Tornio</strong> Mika Rytisalo, Muuraus- ja laattatyö E. Lappalainen
 
-    Turku - Jaakko Moilanen
+<br />    <strong>Turku</strong> Jaakko Moilanen
 
-    Turku - Janne Laitinen, JL-Muurauspalvelu
+<br />    <strong>Turku</strong> Janne Laitinen, JL-Muurauspalvelu
 
-    Tuulos - Alpo Laukkanen
+<br />    <strong>Tuulos</strong> Alpo Laukkanen
 
-    Vantaa - Ari Hakanen
+<br />    <strong>Vantaa</strong> Ari Hakanen
 
-    Vantaa - Ari Peltoranta, AP-Funkkistakka
+<br />    <strong>Vantaa</strong> Ari Peltoranta, AP-Funkkistakka
 
-    Vantaa - Harri Ketomäki
+<br />    <strong>Vantaa</strong> Harri Ketomäki
 
-    Vantaa - Heikki Hyytiäinen, Tulisydän Oy
+<br />    <strong>Vantaa</strong> Heikki Hyytiäinen, Tulisydän Oy
 
-    Vantaa - Pauli Littunen
+<br />    <strong>Vantaa</strong> Pauli Littunen
 
-    Vantaa - Pertti Mäkelä
+<br />    <strong>Vantaa</strong> Pertti Mäkelä
 
-    Vantaa - Ruslan Serov
+<br />    <strong>Vantaa</strong> Ruslan Serov
 
-    Virkkala - Matti Sundell
+<br />    <strong>Virkkala</strong> Matti Sundell
 
-    Virkkala - Onni Niemi
+<br />    <strong>Virkkala</strong> Onni Niemi
 
-    Ylöjärvi - Tero-Pekka Hannula
+<br />    <strong>Ylöjärvi</strong> Tero-Pekka Hannula
 
-    Ylöjärvi - Pauli Leinonen, T:mi Takkamestari Pauli Leinonen
+<br />    <strong>Ylöjärvi</strong> Pauli Leinonen, T:mi Takkamestari Pauli Leinonen, <a href="http://takkamestari.fi/" target="_blank" rel="nofollow noopener">takkamestari.fi</a>
 
 
 
