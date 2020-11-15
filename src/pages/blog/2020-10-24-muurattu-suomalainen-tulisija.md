@@ -6,7 +6,7 @@ description: Kun uusi tulisija on valmis, tekisi mieli heti laittaa tulet
   uuniin. Malta silti vielä! Lue oikeat uunin käyttöohjeet alta ja varmista
   siten uuden tulisijasi hyvä kunto ja toiminta pitkälle tulevaisuuteen.
 featuredpost: true
-featuredimage: /img/punainen-tiili-muurattu.jpg
+featuredimage: /img/muurattu-tulisija-punatiili_uuni.jpg
 tags:
   - muurattu tulisija
   - uunin käyttöönotto
