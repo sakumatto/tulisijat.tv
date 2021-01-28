@@ -49,6 +49,7 @@ tags:
 <br /><strong>Kausala</strong> Renni Sihvola
 <br /><strong>Kerava</strong> Mauri Hartikainen
 <br /><strong>Klaukkala</strong> Juha-Pekka Minkkinen
+<br /><strong>Kuopio</strong> Heli Kuusela, Muuratar Oy
 <br /><strong>Kuusankoski</strong> Sami Myllys
 <br /><strong>Lahti</strong> Juha Rantanen
 <br /><strong>Laitila</strong> Jussi Salonen, Uuniduuni Ky
@@ -102,6 +103,6 @@ tags:
 <br /><strong>Ylöjärvi</strong> Tero-Pekka Hannula
 <br /><strong>Ylöjärvi</strong> Pauli Leinonen, T:mi Takkamestari Pauli Leinonen, <a href="https://www.takkamestariylojarvi.fi/" target="_blank" rel="nofollow noopener">https://www.takkamestariylojarvi.fi/</a>
 
-
-
-    Listan oikeellisuutta ei valitettavasti voida taata. Lähetä nimesi listalle lisättäväksi, jos haluat.
+```
+Listan oikeellisuutta ei valitettavasti voida taata. Lähetä nimesi listalle lisättäväksi, jos haluat.
+```
