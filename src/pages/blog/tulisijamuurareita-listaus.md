@@ -49,7 +49,7 @@ tags:
 <br /><strong>Kausala</strong> Renni Sihvola
 <br /><strong>Kerava</strong> Mauri Hartikainen
 <br /><strong>Klaukkala</strong> Juha-Pekka Minkkinen
-<br /><strong>Kuopio</strong> Heli Kuusela, Muuratar Oy
+<br /><strong>Kuopio</strong> Heli Kuusela, Muuratar Oy - soita 044 3066351
 <br /><strong>Kuusankoski</strong> Sami Myllys
 <br /><strong>Lahti</strong> Juha Rantanen
 <br /><strong>Laitila</strong> Jussi Salonen, Uuniduuni Ky
