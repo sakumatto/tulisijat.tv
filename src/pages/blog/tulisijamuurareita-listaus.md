@@ -77,7 +77,7 @@ tags:
 <br /><strong>Riihimäki</strong> Erkki Ranta, T:mi Erkki Ranta
 <br /><strong>Riihimäki</strong> Hannu Maunu, Riihimäen Tulisijat ja Muuraus
 <br /><strong>Riihimäki</strong> Petri Pakarinen
-<br /><strong>Rovaniemi</strong> Juha Keskiniva, JK Radical Ky
+<br /><strong>Rovaniemi</strong> Juha Keskiniva, JK Radical Ky, https://www.jkradical.fi/
 <br /><strong>Röykkä</strong> Ibon Sanchez
 <br /><strong>Sahalahti</strong> Harri Metsälä, Lämpömuuri
 <br /><strong>Seinäjoki</strong> Sami Ojanen
